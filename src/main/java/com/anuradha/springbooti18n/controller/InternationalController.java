@@ -1,4 +1,4 @@
-package com.hendisantika.springbooti18n.controller;
+package com.anuradha.springbooti18n.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

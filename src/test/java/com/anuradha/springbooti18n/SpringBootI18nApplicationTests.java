@@ -1,4 +1,4 @@
-package com.hendisantika.springbooti18n;
+package com.anuradha.springbooti18n;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.hendisantika.springbooti18n.config;
+package com.anuradha.springbooti18n.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
